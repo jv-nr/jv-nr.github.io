@@ -1,0 +1,11 @@
+nav.border-bottom{
+  border-bottom: 1px solid #ccc
+}
+.container-height{
+  min-height: calc(100vh - 60px)
+}
+.footer{
+  border-top: 1px solid #ccc;
+  height: 60px;
+  line-height: 60px
+}
